@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/init-scripts/Bookstore.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/init-scripts/Bookstore_View_Users.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/init-scripts/Laboration1.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/init-scripts/MoonMissions.sql" dialect="MySQL" />
   </component>

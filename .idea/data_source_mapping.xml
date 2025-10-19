@@ -2,6 +2,7 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/init-scripts/Bookstore.sql" value="2acedfd7-a236-4482-ad72-40758445cd5e" />
+    <file url="file://$PROJECT_DIR$/init-scripts/Bookstore_View_Users.sql" value="2acedfd7-a236-4482-ad72-40758445cd5e" />
     <file url="file://$PROJECT_DIR$/init-scripts/Laboration1.sql" value="2acedfd7-a236-4482-ad72-40758445cd5e" />
     <file url="file://$PROJECT_DIR$/init-scripts/MoonMissions.sql" value="2acedfd7-a236-4482-ad72-40758445cd5e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/2acedfd7-a236-4482-ad72-40758445cd5e/console.sql" value="2acedfd7-a236-4482-ad72-40758445cd5e" />

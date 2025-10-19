@@ -26,9 +26,9 @@ WHERE moon_mission.outcome = 'Successful';
 Skriv en query som ändrar tabellen “successful_mission” så att kolumnen “mission_id” blir en
 primärnyckel och auto inkrementerar. Ta inte bort tabellen och skapa den på nytt, enbart
 egenskaperna för mission_id ska ändras. */
-ALTER TABLE successful_mission
-    MODIFY COLUMN mission_id INT AUTO_INCREMENT,
-    ADD PRIMARY KEY (mission_id);
+ALTER TABLE successful_mission ADD PRIMARY KEY (mission_id);
+ALTER TABLE successful_mission MODIFY mission_id INT NOT NULL AUTO_INCREMENT;
+
 
 /*    Uppgift 3
 I kolumnen ‘operator’ har det smugit sig in ett eller flera mellanslag i operatörens namn. Skriv
